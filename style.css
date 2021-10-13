@@ -1,0 +1,154 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.wh a{
+  text-decoration: none;
+  color: white;
+  position: relative;
+  top: 80px;
+  font-size: 30px;
+  left: 30px;
+}
+
+
+.active {
+ background-color:#128c7e;
+ height: 300px;
+ padding: 0px;
+ margin: -20px;
+ margin-top: -70px;
+margin-right: -50px;
+ text-decoration: none;
+ 
+ 
+}
+.active ul li {
+  display: inline-block;
+  margin: 70px;
+  padding: 0px;
+  position: relative;
+  left: 150px;
+  
+ 
+}
+.active ul li a{text-decoration: none;
+  position: relative;
+  top: 150px;
+  font-size: 25px;
+ overflow-x: auto;
+  color: white;
+}
+.active ul li h1:hover{
+  background-color: green;
+ border-width: 15px;
+  border: 2px solid white;
+margin: 0;
+padding: 0;
+}
+
+
+.c{
+  border-radius: 100px;
+}
+.camera{
+  height: 100px;
+  position: absolute;
+  top: 200px;
+  left: 20px;
+}
+.akashbg{
+  background-image: url(/images/chatbg.jpg);
+ background-size: cover;
+ position: relative;
+ padding-left: -10px;
+ 
+}
+.aklogo img{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  margin: 60px;
+  
+  left: 900px;
+  bottom: 230px;
+}
+.akmenu ul li{
+  font-size: 100px;
+}
+.aksmenu ul li{
+  display: none;
+}
+ .akmenu ul li:hover{
+   color: blue;
+   margin: 0;
+   border-radius: 10px;
+ }
+.akmenu ul li .aksmenu:hover{
+  display: inline-block;
+  color: red;
+}
+.akoption {
+  border: seagreen;
+  background:transparent;
+}
+.akmenu{ position: relative;
+bottom: 400px;
+left: 1400px;
+
+  
+  
+}
+.akashbox{
+  position: relative;
+  top: 2310px;
+  right: 1350px;
+  height: 140px;
+  width: 1200px;
+  border-radius: 100px;
+  
+  
+}
+.akcamera{
+  position: relative;
+  top: 2180px;
+  right: 1300px;
+  
+}
+.akcamera img{
+  height: 100px;
+}
+
+.akbottom img{
+  position: relative;
+  right: 470px;
+  height: 100px;
+  padding: 0px;
+  margin: 30px;
+  top: 2050px;
+}
+.surch img{
+  position: relative;
+  bottom: 2950px;
+  height: 80px;
+  left: 740px;
+}
+.frontsurch{
+  position: relative;
+  
+  bottom:3090px;
+  left: 500px;
+  height: 50px;
+  width: 380px;
+  background: transparent;
+  border: 1px solid #128c7e;
+}
+
+.sc{
+  position: relative;
+  bottom: 1000px;
+  left: 2000px;
+}
